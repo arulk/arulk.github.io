@@ -2,7 +2,6 @@
 title: Machine Learning Course
 author: arul
 layout: post
-permalink: /?p=135
 categories:
   - Personal
 tags:

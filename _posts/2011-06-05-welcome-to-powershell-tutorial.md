@@ -2,12 +2,10 @@
 title: Welcome to PowerShell Tutorial
 author: arul
 layout: post
-permalink: /?p=78
 blogger_blog:
   - www.poshtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/welcome-to-powershell-tutorial_05.html
 categories:
   - Personal

@@ -2,12 +2,10 @@
 title: (Re) Insurance Case
 author: arul
 layout: post
-permalink: /?p=81
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - AK
-blogger_permalink:
   - /2011/12/re-insurance-case.html
 categories:
   - Personal

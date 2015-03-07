@@ -2,7 +2,6 @@
 title: Learning to Program using Python
 author: arul
 layout: post
-permalink: /?p=72
 categories:
   - Personal
 ---

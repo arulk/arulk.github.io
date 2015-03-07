@@ -2,12 +2,10 @@
 title: Consumer Goods case
 author: arul
 layout: post
-permalink: /?p=90
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/12/consumer-goods-case_11.html
 categories:
   - Personal

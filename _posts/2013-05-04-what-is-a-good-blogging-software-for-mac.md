@@ -2,7 +2,6 @@
 title: What is a good blogging software for Mac ?
 author: arul
 layout: post
-permalink: /?p=119
 categories:
   - Personal
 tags:

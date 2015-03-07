@@ -2,12 +2,10 @@
 title: Gas Operator
 author: arul
 layout: post
-permalink: /?p=97
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/07/gas-operator.html
 categories:
   - Personal

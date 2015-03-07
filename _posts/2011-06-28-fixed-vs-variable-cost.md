@@ -2,12 +2,10 @@
 title: Fixed vs. Variable Cost
 author: arul
 layout: post
-permalink: /?p=110
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/fixed-vs-variable-cost.html
 categories:
   - Personal

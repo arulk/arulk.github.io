@@ -2,7 +2,6 @@
 title: My first coursera course completion
 author: arul
 layout: post
-permalink: /?p=143
 categories:
   - Uncategorized
 ---

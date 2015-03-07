@@ -2,12 +2,10 @@
 title: Frequent flyer program for residential customers case
 author: arul
 layout: post
-permalink: /?p=87
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/12/frequent-flyer-program-for-residential.html
 categories:
   - Personal

@@ -2,12 +2,10 @@
 title: Gaming Case
 author: arul
 layout: post
-permalink: /?p=100
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/07/gaming-case.html
 categories:
   - Personal

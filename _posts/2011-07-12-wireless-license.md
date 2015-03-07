@@ -2,12 +2,10 @@
 title: Wireless License
 author: arul
 layout: post
-permalink: /?p=98
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/07/wireless-license.html
 categories:
   - Personal

@@ -2,12 +2,10 @@
 title: Solving Estimation Cases
 author: arul
 layout: post
-permalink: /?p=104
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/solving-estimation-cases.html
 categories:
   - Personal

@@ -2,12 +2,10 @@
 title: Heavy Trucks
 author: arul
 layout: post
-permalink: /?p=94
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/12/heavy-trucks_9228.html
 categories:
   - Personal

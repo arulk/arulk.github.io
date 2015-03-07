@@ -2,12 +2,10 @@
 title: Value Chain Analysis
 author: arul
 layout: post
-permalink: /?p=105
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/value-chain-analysis.html
 categories:
   - Personal

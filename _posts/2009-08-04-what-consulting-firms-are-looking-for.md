@@ -2,12 +2,10 @@
 title: What Consulting Firms Are Looking For
 author: arul
 layout: post
-permalink: /?p=117
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2009/08/what-consulting-firms-are-looking-for.html
 categories:
   - Personal

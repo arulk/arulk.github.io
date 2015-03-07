@@ -2,12 +2,10 @@
 title: Corporate Strategy
 author: arul
 layout: post
-permalink: /?p=93
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/12/corporate-strategy.html
 categories:
   - Personal

@@ -2,12 +2,10 @@
 title: How to install Windows PowerShell ?
 author: arul
 layout: post
-permalink: /?p=77
 blogger_blog:
   - www.poshtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/how-to-install-windows-powershell.html
 categories:
   - Personal

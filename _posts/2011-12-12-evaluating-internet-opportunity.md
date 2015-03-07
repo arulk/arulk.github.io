@@ -2,14 +2,12 @@
 title: Evaluating Internet opportunity
 author: arul
 layout: post
-permalink: /?p=88
 blogger_blog:
   - www.caseinterviewtutorial.com
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
   - amags
-blogger_permalink:
   - /2011/12/evaluating-internet-opportunity_12.html
   - /2011/12/evaluating-internet-opportunity.html
 categories:

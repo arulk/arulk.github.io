@@ -2,12 +2,10 @@
 title: Additional Resources
 author: arul
 layout: post
-permalink: /?p=114
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/additional-resources.html
 categories:
   - Personal

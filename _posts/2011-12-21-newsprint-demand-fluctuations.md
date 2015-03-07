@@ -2,12 +2,10 @@
 title: Newsprint demand fluctuations
 author: arul
 layout: post
-permalink: /?p=84
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - AK
-blogger_permalink:
   - /2011/12/newsprint-demand-fluctuations.html
 categories:
   - Personal

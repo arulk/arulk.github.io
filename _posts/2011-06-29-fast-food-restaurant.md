@@ -2,12 +2,10 @@
 title: Fast Food Restaurant
 author: arul
 layout: post
-permalink: /?p=103
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/fast-food-restaurant.html
 categories:
   - Personal

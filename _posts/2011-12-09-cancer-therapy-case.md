@@ -2,12 +2,10 @@
 title: Cancer Therapy Case
 author: arul
 layout: post
-permalink: /?p=92
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/12/cancer-therapy-case.html
 categories:
   - Personal

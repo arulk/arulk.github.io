@@ -2,12 +2,10 @@
 title: The Video Store
 author: arul
 layout: post
-permalink: /?p=113
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/video-store_28.html
 categories:
   - Personal

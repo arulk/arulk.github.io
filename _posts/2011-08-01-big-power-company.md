@@ -2,12 +2,10 @@
 title: Big Power Company
 author: arul
 layout: post
-permalink: /?p=95
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/08/big-power-company-tags-pricing.html
 categories:
   - Personal

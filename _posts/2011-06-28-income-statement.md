@@ -2,12 +2,10 @@
 title: Income Statement
 author: arul
 layout: post
-permalink: /?p=111
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/income-statement.html
 categories:
   - Personal

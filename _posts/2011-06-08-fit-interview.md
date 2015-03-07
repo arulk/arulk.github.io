@@ -2,12 +2,10 @@
 title: FIT Interview
 author: arul
 layout: post
-permalink: /?p=116
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/fit-interview_08.html
 categories:
   - Personal

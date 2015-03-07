@@ -2,12 +2,10 @@
 title: MBA Curriculum at Wharton
 author: arul
 layout: post
-permalink: /?p=80
 blogger_blog:
   - www.mbatutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/01/mba-curriculum-at-wharton.html
 categories:
   - Personal

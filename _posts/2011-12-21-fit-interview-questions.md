@@ -2,12 +2,10 @@
 title: FIT Interview Questions
 author: arul
 layout: post
-permalink: /?p=85
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - AK
-blogger_permalink:
   - /2011/12/fit-interview-questions.html
 categories:
   - Personal

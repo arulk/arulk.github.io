@@ -2,7 +2,6 @@
 title: How to install Windows Phone Developer tools in Windows Server 2008
 author: arul
 layout: post
-permalink: /?p=73
 categories:
   - Personal
 ---

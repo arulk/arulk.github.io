@@ -2,12 +2,10 @@
 title: 'Hotel mini-bars: A valuation'
 author: arul
 layout: post
-permalink: /?p=86
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - AK
-blogger_permalink:
   - /2011/12/hotel-mini-bars-valuation.html
 categories:
   - Personal

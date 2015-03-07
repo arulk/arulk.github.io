@@ -2,7 +2,6 @@
 title: Happy New Year
 author: arul
 layout: post
-permalink: /?p=130
 categories:
   - Personal
 ---

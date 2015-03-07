@@ -2,12 +2,10 @@
 title: LA GUARDIA AIRPORT
 author: arul
 layout: post
-permalink: /?p=101
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/la-guardia-airport.html
 categories:
   - Personal

@@ -2,12 +2,10 @@
 title: 'SOLVING THE CASE: BUSINESS CASES'
 author: arul
 layout: post
-permalink: /?p=115
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/solving-case-business-cases.html
 categories:
   - Personal

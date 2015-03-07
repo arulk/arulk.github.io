@@ -2,12 +2,10 @@
 title: Private Meter Parking
 author: arul
 layout: post
-permalink: /?p=82
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - AK
-blogger_permalink:
   - /2011/12/private-meter-parking.html
 categories:
   - Personal

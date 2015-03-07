@@ -2,12 +2,10 @@
 title: 'Porter&#8217;s Five Forces'
 author: arul
 layout: post
-permalink: /?p=106
 blogger_blog:
   - www.caseinterviewtutorial.com
 blogger_author:
   - amags
-blogger_permalink:
   - /2011/06/porter-five-forces.html
 categories:
   - Personal
