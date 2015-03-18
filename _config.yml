@@ -3,7 +3,7 @@ title: 'Arul&#039;s Blog'
 email: arulk@live.com
 description: > # this means to ignore newlines until "baseurl:"
   Site about everything and nothing
-#url: "http://arulweb.com" # the base hostname & protocol for your site
+url: "http://arulweb.com" # the base hostname & protocol for your site
 twitter_username: arulkumaravel
 github_username:  arulk
 
