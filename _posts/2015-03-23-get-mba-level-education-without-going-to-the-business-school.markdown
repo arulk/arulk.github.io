@@ -29,15 +29,19 @@ I am going to update this blog with the appropriate course for each of the subje
     - Leadership
     - MacroEconomics
     - Managerial Accounting
-    - Operations Management
-    - Statistics
+    - [Statistics][9b3d8574]
+
+      This course introduces you to the discipline of statistics as a science of understanding and analyzing data. You will learn how to effectively make use of data in the face of uncertainty: how to collect data, how to analyze data, and how to use data to make inferences and conclusions about real world phenomena.
     - Communications
     -
     - [Corporate Finance][ec8396cd]
 
       This course provides a framework, concepts, and tools for analyzing financial decisions based on fundamental principles of modern financial theory. You’ll learn the language and key components of corporate finance and investments including calculating present values, the valuation of bonds and stocks, the NPV rule, measuring risk, capital budgeting and the capital asset pricing model. At the end of this course, you’ll be able to read, understand, and explain corporate financial management and investment decisions.
 
-    - Marketing
+    - [Marketing][42a3473f]
+
+      Learn the fundamentals of marketing by getting to the root of customer decision-making. Key topics include branding strategies (e.g., brand positioning, brand communications), customer-centric marketing strategy, and new market entry (e.g., channel strategy, marketing planning). 
+
     - [Operations Management][d2d655f1]
 
       In this course you will learn to analyze and improve business processes in services or in manufacturing by learning how to increase productivity and responsiveness, provide more choice to the customer, and deliver higher quality standards. Key concepts include process analysis, bottlenecks, flows rates, and inventory levels, and more.
@@ -73,9 +77,12 @@ I am going to update this blog with the appropriate course for each of the subje
   - Problems in Financial Reporting
 
 
+  [9b3d8574]: https://www.coursera.org/course/statistics "Statistics"
+
+
   [d2d655f1]: https://www.coursera.org/course/whartonoperations "Operations Management"
 
-
+  [42a3473f]: https://www.coursera.org/course/whartonmarketing "Marketing"
   [ec8396cd]: https://www.coursera.org/course/whartonfinance "Corporate Finance"
 
   [b83b6ff7]: https://www.coursera.org/course/whartonaccounting "Financial Accounting"
