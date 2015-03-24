@@ -9,13 +9,11 @@ categories:
 
 # Get MBA level education without going to the business school
 
-I am hard core engineer.  I have my undergrad and graduate degree in Computer Science and have many years of experience working in  high tech industry.  I know what it takes to solve technical problems but I wasn't very knowledgeable about how business work. In order to learn more about business, I to pursue MBA at Wharton business school.  Two years at Wharton is one of the best experience of my life and helped me learn more about business that I expected to learn.  Not to the mention the number of friends I made during the two year.
+I am hard core engineer.  I have my undergrad and graduate degree in Computer Science and have many years of experience working in  high tech industry.  I know what it takes to solve technical problems but I wasn't very knowledgeable about how business work. In order to learn more about business, I decided to pursue MBA at Wharton business school.  Two years at Wharton is one of the best experience of my life and helped me learn more about business that I expected to learn.  Not to the mention the number of friends I made during the two year.
 
-Why am I writing a blog about getting MBA level education without going to business school then?  Well,The motivation for this blog came from my friends who constantly ask me about my MBA experience since they are  interested in learning about business just like I was few years ago.
+Then, why am I writing a blog about getting MBA level education without going to business school?   Well,the motivation for this blog came from my friends who constantly ask me about my MBA experience. Many of my friends are interested in learning about business just like I  did few years ago. Not everyone has time or money to pursue MBA so I thought of putting together this blog to help people get the equivalent of MBA knowledge without going to business school.   All  you need is time, discipline and motivation to learn.
 
-Not everyone has time or money to pursue MBA so I thought of putting together this blog to help get equivalent of knowledge without going to business school.   All  you need is time, discipline and motivation to learn.
-
-I structured this curriculum based on Wharton's curriculum as that is the one that I am familar with. First year of the curriculum was focused on what we call business foundations and second year courses were electives with options to specialize in Marketing, Fiance, Strategy etc.  I  am going to put together a comprehensive list of courses that you can take for free but it would be beneficial for you to focus on business foundations first before you take on electives as most elective courses assume that you have knowledge of content taught in business foundation classes.
+I structured this curriculum based on Wharton's curriculum as that is the one that I am familar with. First year of the curriculum was focused on what we call business foundations and second year courses were electives with options to specialize in Marketing, Finance, Strategy etc.  I  am going to put together a comprehensive list of courses that you can take for free but it would be beneficial for you to focus on business foundations first before you take on electives as most elective courses assume that you have knowledge of content taught in business foundation classes.
 
 I am going to update this blog with the appropriate course for each of the subject area.
 
@@ -40,7 +38,7 @@ I am going to update this blog with the appropriate course for each of the subje
 
     - [Marketing][42a3473f]
 
-      Learn the fundamentals of marketing by getting to the root of customer decision-making. Key topics include branding strategies (e.g., brand positioning, brand communications), customer-centric marketing strategy, and new market entry (e.g., channel strategy, marketing planning). 
+      Learn the fundamentals of marketing by getting to the root of customer decision-making. Key topics include branding strategies (e.g., brand positioning, brand communications), customer-centric marketing strategy, and new market entry (e.g., channel strategy, marketing planning).
 
     - [Operations Management][d2d655f1]
 
