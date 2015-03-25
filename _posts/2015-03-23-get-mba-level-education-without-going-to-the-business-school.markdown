@@ -47,22 +47,11 @@ I am going to update this blog with the appropriate course for each of the subje
 
 
 * Electives
-  - Total Leadership
-  - Entrepreneurship
-  - Market  Research
-  - Marketing Strategy
-  - Investment Management
-  - Advanced Corporate Finance
-  - Strategy and Competitive Advantage
-  - Corporate Development – Mergers and Acquistions
-  - Financial Derivatives
-  - Corporate Valuation
-  - Finance of Buyouts and Acquistions
-  - Pricing Policy
-  - Entrepreneurial Marketing
-  - International Corporate Finance
-  - Venture Capital and Finance of Innovation
-  - Negotiation for Results
+
+  - [Negotiation Skills][1c1909dd]
+
+    This course provides you with a practical, holistic introduction to the strategies and skills that can lead to successful negotiations in your personal life and in business transactions. The course covers the four key stages of negotiation: (1) planning, (2) negotiating, (3) creating a contract, and (4) performing the contract.
+
   - GeoPolitics
   - Managing Organizational Change
   - Formation and Implementation of Ventures
@@ -84,3 +73,4 @@ I am going to update this blog with the appropriate course for each of the subje
   [ec8396cd]: https://www.coursera.org/course/whartonfinance "Corporate Finance"
 
   [b83b6ff7]: https://www.coursera.org/course/whartonaccounting "Financial Accounting"
+  [1c1909dd]: https://www.coursera.org/learn/negotiation-skills "Negotiation Skills"
